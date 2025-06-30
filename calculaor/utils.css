@@ -1,0 +1,22 @@
+ 
+ .text{
+   text-align: center;
+}
+
+.bg{
+    background-color: brown;
+}
+mx-auto{
+  margin: auto;
+}
+ .flex{
+   display: flex;
+ }
+
+ .flex-col{
+  flex-direction: column;
+ }
+
+ .items{
+  align-items: center;
+ }
